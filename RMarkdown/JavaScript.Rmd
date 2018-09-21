@@ -1,0 +1,46 @@
+---
+title: "Aula de RMarkdown no SINAPE 2018"
+author: "Steven Dutt-Ross"
+output: 
+  html_document:
+    theme: cerulea
+---
+
+## JavaScript dentro do R Markdown
+
+<!-- JavaScript padrão -->
+<script>alert("Olá, bem-vindo à Oficina 1");</script>
+
+<!-- Importa jQuery (biblioteca JavaScript para efeitos) -->
+<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.1.min.js"></script>
+
+<script>
+$(document).ready(function(){
+  $("#botao").click(function(){
+      alert("Você clicou em mim.\n \n Efeito utilizando o \n Javascript no Rmarkdown.");
+  });
+});
+</script><script>alert("Essa vai ser uma Oficina de RMarkdown");</script>
+
+<!-- Botão de exemplo para o jQuery. -->
+<input id="botao" type="button" value="Clique em mim!" />
+
+
+
+
+
+
+
+
+
+<!--
+## Criando um novo JavaScript no RMarkdown
+<script>
+$(document).ready(function(){
+  $("#botao1").click(function(){
+      alert("Você clicou em mim.\n \n Efeito utilizando o \n Javascript no Rmarkdown. Demais!");
+  });
+});
+</script>
+<input id="botao1" type="button" value="Clique aqui!" />
+-->

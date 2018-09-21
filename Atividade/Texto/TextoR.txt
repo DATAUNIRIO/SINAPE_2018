@@ -1,0 +1,53 @@
+R de revolucionário 
+
+O R é uma linguagem de programação de código aberto e um ambiente para computação estatística. 
+
+R é a plataforma mais importante para o desenvolvimento de novos métodos estatísticos e para a prática de ciência dos dados. Se você busca os mais recentes métodos estatísticos, a melhor aposta é que eles são implementados em R. 
+É fácil utilizar o R para fazer qualquer análise de dados ou atividade estatística. Não custa nada, então universidades, professores, estudantes e startups encontram poucas barreiras para adotá-lo. Entretanto, o R não enfatiza a perspectiva *point&click* como um software tradicional. Em vez disso, ele usa linha de comando que interage com ferramentas para desenvolvedores
+Existem mais de 11.000 pacotes para R - todos disponíveis gratuitamente - que estendem a sua utilidade. Esses pacotes disponibilizam os mais recentes métodos estatísticos e fornecem as bases para o desenvolvimento futuro.
+
+A maioria dos softwares é construída para centralizar e controlar os dados, mas não para democratizá-los. Como resultado, as pessoas ficam reféns dos especialistas para responder questões básicas. 
+O R é diferente! É democrático! É de graça!
+
+Para fazer citação.
+
+Que mal fiz eu aos deuses todos? 
+Se têm a verdade, guardem-na! 
+Sou um técnico, mas tenho técnica só dentro da técnica. 
+Fora disso sou doido, com todo o direito a sê-lo. 
+Com todo o direito a sê-lo, ouviram? 
+Queriam-me casado, fútil, quotidiano e [tributável?](http://www.jornaldepoesia.jor.br/facam15.html)
+
+Para fazer tópicos/bullets.
+
+"Se nos ferem, não sangramos?"
+
+Hamlet, MacBeth, Otelo, O Mercador de Veneza, Romeu & Julieta.
+
+Também podemos criar uma lista não-ordenada
+
+* Séries
+  + Game of Thrones
+  + Vikings
+  + Mr. Robot
+* Estudos
+  + Estatística
+  + Data Science
+* Músicas
+  + Pop 
+  + Rock
+    + Rock Nacional
+    + Rock Progressivo
+      + Rock Sinfônico
+
+
+Aprendendo ênfase com Game of Thrones
+
+Mudando o tamanho da fonte
+
+"Winter Is Coming"
+  
+Colocando hiperlink
+
+Esse é o site do GAE http://gae.uniriotec.br/
+

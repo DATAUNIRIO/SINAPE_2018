@@ -11,12 +11,31 @@ output:
     toc: true
     toc_float: true
     code_folding: hide
+tags:["R","RMarkdown", "SINAPE"]
 ---
 
 <style>
 body {
     background-color: #ceefee;
+    text-align: justify;
+    
 }
+<!--
+img {
+    border-radius: 50%;
+}
+-->
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
+
+h1 {color:green;
+    text-align: center}" 
+
 </style>
 
 ```{r setup, include=FALSE}
@@ -411,6 +430,9 @@ Que tal colocar a **função de densidade da Normal**?
 f(x) = \frac{1}{2\pi\sigma^{2}} e^{-\frac{1}{2 \sigma^{2}} (x - \mu)^{2}} 
 \end{equation}
 
+```{python}
+library(reaticulate)
+```
 
 ## Um modelo de regressão
 
